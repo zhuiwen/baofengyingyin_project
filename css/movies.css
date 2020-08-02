@@ -1,0 +1,266 @@
+.wrap {
+    width: 1100px;
+    margin: 0 auto;
+}
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+body {
+    background-color: #f3f3f3;
+}
+/*头部样式*/
+.header {
+    height: 65px;
+    width: 100%;
+    background: url("../images/bg.gif");
+    position: relative;
+}
+
+.header .logo {
+    display: block;
+    width: 191px;
+    height: 29px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto 18px;
+}
+/*头部导航栏*/
+.header ul {
+    float: right;
+
+}
+.header ul>li {
+    float: left;
+    margin: 0 15px;
+    line-height: 65px;
+}
+
+.header ul>li>a {
+    color: #686868;
+}
+.header ul>li:hover a {
+    color: #20a5ff;
+}
+
+/*————————————————————————————————————————————————————————————————————————*/
+/*页面主体*/
+/*主体导航栏*/
+.main_topNav {
+    height: 38px;
+    padding-top: 2px;
+    background: url("../images/main_nav.png");
+}
+.main_topNav ul {
+    padding-left: 44px;
+}
+.main_topNav ul>li {
+    float: left;
+    line-height: 38px;
+    height: 38px;
+    width: 115px;
+    text-align: center;
+    margin: 0px 2px;
+}
+
+.main_topNav ul>li.active,
+.main_topNav ul>li:hover{
+    background: #0b68c8;
+}
+.main_topNav ul>li.active a,
+.main_topNav ul>li:hover a {
+    color: #fff;
+}
+/*页面主体---电影区样式*/
+.main_movies {
+    padding: 20px 12px 0px;
+    background: #fff;
+    border-bottom: 1px solid #dedede;
+    margin-bottom: 29px;
+}
+.movies_nav {
+    margin-bottom: 30px;
+}
+.movies_nav>li {
+    float: left;
+    padding: 8px 20px;
+    margin-right: 5px;
+}
+.movies_nav>li>a {
+    color: #000;
+}
+.movies_nav>li.active,
+.movies_nav>li:hover{
+    background: #1a9eff;
+}
+.movies_nav>li.active>a,
+.movies_nav>li:hover>a{
+    color: #fff;
+}
+.moviesSelec {
+    border: 1px solid #dedede;
+    height: 40px;
+}
+.moviesSelec>li {
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    width: 128px;
+    text-align: center;
+    color: #0b68c8;
+    background: #fff;
+
+    cursor: pointer;
+}
+.moviesSelec>li:nth-of-type(n+2){
+    border-left:1px solid #dedede ;
+}
+.moviesSelec>li:nth-of-type(1){
+    border-right: none !important;
+}
+.moviesSelec>li.active {
+    height: 37px;
+    border-top: 4px solid #0b68c8;
+    color: #000;
+    border-right:1px solid #dedede;
+}
+/*电影资源区*/
+.movies_item {
+    padding-top: 30px;
+
+
+}
+.movies_item>li {
+    float: left;
+    width: 204px;
+    height: 367px;
+    margin-right: 13px;
+    line-height: 1;
+    position: relative;
+}
+.movies_item>li:nth-of-type(5n){
+    margin-right: 0px;
+}
+.movies_item>li>a {
+    display: block;
+    font-size: 12px;
+}
+.movies_item>li>a>img {
+    display: block;
+    width: 100%;
+    height: 287px;
+}
+.movies_item>li>a>.name {
+
+    color: #000;
+    padding-top: 9px;
+}
+.movies_item>li>a>.infro {
+    color: #999;
+    padding-top: 6px;
+}
+.movies_item>li>a>.score {
+    color: #f60;
+    font-size: 16px;
+    position: absolute;
+    right: 0px;
+    bottom: 50px;
+}
+.movies_item>li>a>.pingzhi {
+    height: 18px;
+    width: 28px;
+    color: #fff;
+    line-height: 18px;
+    text-align: center;
+    background: rgba(100,100,100,.4);
+    position: absolute;
+    right: 5px;
+    bottom: 87px;
+}
+.movies_item>li>a>.sprite {
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    background-image: url("../images/image/vip-tips.png");
+}
+.movies_item>li.vipfree>a>.sprite {
+    height: 18px;
+    width: 82px;
+    background-position: -101px 0px;
+}
+.movies_item>li.vipagio>a>.sprite {
+    height: 18px;
+    width: 100px;
+    background-position: 0px 0px;
+}
+.split {
+    border-top: 1px solid #dedede ;
+    border-bottom: 1px solid #fff ;
+}
+.split1 {
+    border-bottom: 1px solid #dedede ;
+    border-top: 1px solid #fff ;
+}
+.others {
+    padding-top: 55px;
+    padding-bottom: 40px;
+    overflow: hidden;
+}
+.others>li {
+    float: left;
+    padding-left: 80px;
+    height: 99px;
+    border-right: 1px solid #dedede;
+    width: 205px;
+}
+.others>li>dl {
+    float: left;
+    margin-left: 10px;
+}
+.others>li:first-child {
+    margin-left: -43px;
+}
+.others>li:last-child {
+    border: 0;
+}
+.others>li>dl>dt {
+    font-weight: bold;
+    padding-top: 10px ;
+    padding-bottom: 20px;
+}
+.others>li>dl>dd {
+    font-size: 12px;
+}
+.others>li> .sprite {
+    height: 51px;
+    width: 51px;
+    background-image: url("../images/image/vip-powers.png") ;
+    background-position: 0px -111px;
+    float: left;
+}
+.others>li:nth-of-type(2)> .sprite {
+    background-position: -51 px -111px;
+}
+.others>li:nth-of-type(3)> .sprite {
+    background-position: -102px -111px;
+}
+.others>li:nth-of-type(4)> .sprite {
+    background-position: -153px -111px;
+}
+/*页面底部样式*/
+.bottom {
+    padding-top: 60px;
+    padding-bottom: 76px;
+    text-align: center;
+    line-height: 1;
+    font-size: 12px;
+    color: #999999;
+}
+.bottom>p {
+    padding-bottom: 12px;
+}
+.bottom>p:last-of-type {
+    padding-bottom: 0px;
+}

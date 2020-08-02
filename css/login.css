@@ -1,0 +1,39 @@
+/*页面主体*/
+
+.main .input {
+    width: 282px;
+    border: 1px solid #d2d2d2;
+    height: 30px;
+    font-size: 0px;
+    color: #787878;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+.main .input .iconfont{
+    padding: 0px 7px;
+    font-size: 18px;
+
+}
+.main .input input{
+    border: 0;
+    background: #fff;
+    width: 250px;
+    height: 100%;
+    vertical-align: top;
+    outline: none;
+}
+.main .input1 {
+    font-size: 16px;
+    overflow: hidden;
+    border: 0px;
+}
+
+
+.main .input1>.find {
+    float: right;
+    color: #1d9ded;
+}
+
+.main .yanzheng>a{
+    color: #1d9ded;
+}

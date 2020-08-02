@@ -1,0 +1,123 @@
+[
+  {
+     id:1,
+     "src": "../images/image/240_180_1533800269.jpg",
+     "url": "./play.html?id=6",
+     "name":"开封府",
+     "date":"2017-07-28",
+     "score":"8.4",
+     "pinzhi": "高清",
+     "videourl":"http://ykugc.cp31.ott.cibntv.net/697621108324571C613EF6F0C/03001101005C989264392145B7B6D10F5194EB-76C1-4C87-AC53-08F9DF28F6AB.mp4?ccode=050F&duration=213&expire=18000&psid=5ef9c01dd4f70be38f960a5f53368d3b&ups_client_netip=dc73af1a&ups_ts=1575447223&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XMzkwNzY3MDg2NA%3D%3D&vkey=A8b3aeabae1feb165887f815871518459&sp=&bc=2&dre=u21&si=42"
+   },
+   {
+      id:2,
+      "src": "../images/image/hot1.jpg",
+      "url": "./play.html?id=2",
+      "name":"萌鸡小学堂",
+      "date":"20015-04-13",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+   },
+   {
+      id:3,
+      "src": "../images/image/hot2.jpg",
+      "url": "./play.html?id=3",
+      "name":"魔都风云",
+      "date":"2001-04-23",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    },
+   {
+      id:4,
+      "src": "../images/image/hot3.jpg",
+      "url": "./play.html?id=2",
+      "name":"解放海南岛",
+      "date":"2005-02-23",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    },
+   {
+      id:5,
+      "src": "../images/image/hot4.jpg",
+      "url": "./play.html?id=6",
+      "name":"遍地英雄",
+      "date":"2015-04-23",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    },
+   {
+      id:6,
+      "src": "../images/image/hot5.jpg",
+      "url": "./play.html?id=1",
+      "name":"娘亲舅大",
+      "date":"2011-04-23",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    },
+   {
+      id:7,
+      "src": "../images/image/hot6.jpg",
+      "url": "./play.html?id=3",
+      "name":"生死线",
+      "date":"2011-07-03",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    },
+   {
+      id:8,
+      "src": "../images/image/hot7.jpg",
+      "url": "./play.html?id=4",
+      "name":"楚乔传",
+      "date":"2013-01-03",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    },
+   {
+      id:9,
+      "src": "../images/image/hot8.jpg",
+      "url": "./play.html?id=6",
+      "name":"金战",
+      "date":"2013-01-03",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    },
+   {
+      id:10,
+      "src": "../images/image/hot9.jpg",
+      "url": "./play.html?id=3",
+      "name":"可可小爱科普系列：第二季",
+      "date":"2013-01-03",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    },
+   {
+      id:11,
+      "src": "../images/image/hot10.jpg",
+      "url": "./play.html?id=3",
+      "name":"战狼2",
+      "date":"2013-01-03",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    },
+   {
+      id:12,
+      "src": "../images/image/hot11.jpg",
+      "url": "./play.html?id=3",
+      "name":"家有儿女",
+      "date":"2003-01-03",
+      "score":"9.1",
+      "pinzhi": "标清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65730B2C4E938716F44D52741/03001101005CFE3C1847DF84932542B71B9450-1A1C-49DF-B237-BD06CE17CA72.mp4?ccode=050F&duration=73&expire=18000&psid=6e4b93ef1a911fdb61b977e5455f2fa6&ups_client_netip=dc73af1a&ups_ts=1575447268&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDIyMjc1NzY2OA%3D%3D&vkey=Ad0958cce23fc1a1fd2c2ca1919cfd70c&sp=&bc=2&dre=u21&si=42"
+    }
+
+]

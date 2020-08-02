@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebe1911e-5a71-486f-9e4e-6e5f749a354b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UPPmq7nJCJ8sYRkLh6YY7Jk0HN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/暴风影音项目/html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/暴风影音项目/html/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebe1911e-5a71-486f-9e4e-6e5f749a354b" name="Default Changelist" comment="" />
+      <created>1575255418250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575255418250</updated>
+      <workItem from="1575255419444" duration="1232000" />
+      <workItem from="1575256671041" duration="32659000" />
+      <workItem from="1575335755183" duration="13237000" />
+      <workItem from="1575350393119" duration="7268000" />
+      <workItem from="1575357711531" duration="6200000" />
+      <workItem from="1575363981153" duration="4736000" />
+      <workItem from="1575372164892" duration="1314000" />
+      <workItem from="1575386693792" duration="41000" />
+      <workItem from="1575421994674" duration="42792000" />
+      <workItem from="1575505158264" duration="918000" />
+      <workItem from="1575506106216" duration="20641000" />
+      <workItem from="1575533310674" duration="5347000" />
+      <workItem from="1575551044248" duration="3099000" />
+      <workItem from="1575596983508" duration="39000" />
+      <workItem from="1575632035838" duration="150000" />
+      <workItem from="1575689349912" duration="13000" />
+      <workItem from="1575895558672" duration="864000" />
+      <workItem from="1575896458468" duration="3000" />
+      <workItem from="1575938842117" duration="10000" />
+      <workItem from="1576286223980" duration="3143000" />
+      <workItem from="1576292810190" duration="10000" />
+      <workItem from="1593504828377" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/login.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

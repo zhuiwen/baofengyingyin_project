@@ -1,0 +1,57 @@
+[
+  {
+     id:1,
+     "src": "../images/image/th.jpg",
+     "url": "./play.html?id=1",
+     "name":"战狼2",
+     "date":"1995-04-23",
+     "score":"8.4",
+     "infro":"硬汉吴京血战非洲",
+     "pinzhi": "高清",
+     "videourl":"http://valipl.cp31.ott.cibntv.net/69749c4864a37716897435fcd/03000801005DDE4DE6EB4E8003E880F5851BB2-D845-41C9-92E4-F49E96AD5C14.mp4?ccode=0502&duration=2760&expire=18000&psid=e626f28ae993f6688c669d937433f142&ups_client_netip=dc73af1a&ups_ts=1575445588&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDE4MjQ4ODg0&vkey=A932b1d6d0a52c8ae31e663db71235432"
+   },
+   {
+      id:2,
+      "src": "../images/image/51_270_360.jpg",
+      "url": "./play.html?id=2",
+      "name":"外乡人",
+      "date":"2005-04-23",
+      "score":"9.1",
+      "infro":"上海外乡人的辛酸与甘甜",
+      "pinzhi": "标清",
+      "videourl":"http://vali.cp31.ott.cibntv.net/69754D62A013B718350FE3121/03000A09025DE5C4B9F146E6AE0B5052694650-66C5-47A2-878F-6D03DEBA863F.mp4?ccode=050F&duration=389&expire=18000&psid=9c08d65a8d1ba4bce4ca5f7a0b3d1d7b&ups_client_netip=dc73af1a&ups_ts=1575506878&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDQyNzg0MjgzNg%3D%3D&vkey=A0ecd7b5e30bd63dc64e0b35d95200c60&s=e438e14b3fa94613a1bb&sp=&bc=2&dre=u20&si=44"
+   },
+   {
+      id:3,
+      "src": "../images/image/th04.jpg",
+      "url": "./play.html?id=3",
+      "name":"学英语要建立的习惯",
+      "date":"2015-04-23",
+      "score":"0.0",
+      "infro":"6个月从0学会英语",
+      "pinzhi": "超清",
+      "videourl":"http://vali.cp31.ott.cibntv.net/6573A746AFA3F719E07186ADD/03000A07025DC27ECDD03A95FCCF183BE2EB84-48EC-47A5-9931-EAA08F82BD0B.mp4?ccode=050F&duration=390&expire=18000&psid=a7b7604e7b629a0e0b2ffa22dadd7699&ups_client_netip=dc73af1a&ups_ts=1575506358&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDQyNjg4Nzg3Mg%3D%3D&vkey=Ad728deb42b7b9978a62152f0b0a53213&s=dcdd79648e654f37aa58&sp=&bc=2&dre=u20&si=44"
+   },
+   {
+      id:4,
+      "src": "../images/image/th02.jpg",
+       "url": "./play.html?id=4",
+      "name":"撒坝味道",
+      "date":"2010-04-23",
+      "score":"5.7",
+      "infro":"家的味道爱的味道",
+      "pinzhi": "超清",
+      "videourl":"http://vali.cp31.ott.cibntv.net/6773851A5DB4E72022F393AC7/03000A01005DA309EE07072A5B120B067690A8-18FC-4837-914C-C53518C059B1.mp4?ccode=050F&duration=177&expire=18000&psid=1918faea678065af4afc891525fce455&ups_client_netip=dc73af1a&ups_ts=1575471915&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDM5NjkzMTc4NA%3D%3D&vkey=A2249005693604ab41fa068982c4a220d&s=4973b8dfee394b7aa513&sp=&bc=2&dre=u20&si=44"
+    },
+    {
+       id:5,
+       "src": "../images/image/th03.jpg",
+       "url": "./play.html?id=5",
+       "name":"女王进行时",
+       "date":"2010-04-23",
+       "score":"2.6",
+       "infro":"职场菜鸟逆袭变女王",
+       "pinzhi": "超清",
+       "videourl":"http://vali.cp31.ott.cibntv.net/677394384494371B8BAC1285F/03000A01005D9C011CDA9346A1FBAA1DDDA3D8-7E32-4744-9351-A2295AEE2168.mp4?ccode=050F&duration=99&expire=18000&psid=0acf5d5e12c2c60284966d4ccc1a001c&ups_client_netip=dc73af1a&ups_ts=1575471786&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDM4OTkwMjk1Ng%3D%3D&vkey=A6418937f8899b375129a052d72bac8e6&s=bfa5b9ba94ad4a36a63e&sp=&bc=2&dre=u20&si=44"
+    }
+]

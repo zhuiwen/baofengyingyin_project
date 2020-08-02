@@ -1,0 +1,160 @@
+body {
+    min-width: 1300px;
+}
+.wrap {
+    position: relative;
+    width: 1080px;
+   margin: 0 auto;
+}
+/*页面头部*/
+.header {
+    height: 90px;
+    /*background: #bfa;*/
+    overflow: hidden;
+}
+.header>a {
+    display: block;
+    height: 37px;
+    font-size: 28px;
+    color: #269df7;
+    margin-top: 25px;
+
+}
+.header>a>img {
+    vertical-align: middle;
+}
+/*页面主体样式*/
+.main {
+    height: 542px;
+    background-image: url("../images/bgimg.jpg");
+    background-position: -175px;
+    position: relative;
+}
+.main>.main_right>form {
+    /*border: 1px solid red;*/
+    float: left;
+    width: 284px;
+    padding-bottom: 12px;
+    border-right: 1px dashed #d4d4d4;
+    margin-right: 30px;
+    position: relative;
+}
+.main>.main_right {
+    padding: 20px 30px 0px ;
+    background: white;
+    min-width: 280px;
+    height: 315px;
+    position: absolute;
+    top: 120px;
+    right: 40px;
+    overflow: hidden;
+}
+.main>.main_right>a {
+    display: block;
+    height: 20px;
+    font-size: 14px;
+    color: #269df7;
+    margin-bottom: 12px;
+}
+.main>.main_right>a>img {
+    height: 100%;
+    vertical-align: middle;
+}
+.main>.main_right>a>.close {
+    float: right;
+    color: #888;
+
+}
+.main>.main_right>form {
+    padding-top: 30px;
+    padding-right: 30px;
+
+}
+/*---------------------------------------------*/
+.main .otherLogin {
+    float: right;
+    width: 140px;
+}
+.main .otherLogin>h3 {
+    font-weight: normal;
+    font-size: 12px;
+    text-align: center;
+    color: #9a9a9a;
+    padding-top: 30px;
+}
+.main .otherLogin>.loginBtn {
+    height: 30px;
+    display: block;
+    background-image: url("../images/sprite02.png");
+    margin-top: 12px;
+}
+.main .otherLogin>.loginBtn.QQ {
+    background-position: 0px -99px;
+}
+.main .otherLogin>.loginBtn.weibo {
+    background-position: -150px -99px;
+}
+.main .otherLogin>.loginBtn.weixin {
+    background-position: 0px -140px;
+}
+.main .otherLogin>.loginBtn.zfb {
+    background-position: -150px -140px;
+}
+.main .otherLogin>.regist {
+    height: 30px;
+    margin-top: 4px;
+    line-height: 30px;
+    font-size: 12px;
+    color: #9d9d9d;
+}
+.main .otherLogin>.regist>a {
+    color: #20a5ff;
+}
+.main .otherLogin>.other {
+    text-align: right;
+}
+.main .otherLogin>.other>span {
+
+    font-size: 12px;
+    color: #9d9d9d;
+}
+.main .input1 .checkbox {
+    margin-top: 8px;
+    width: 15px;
+    height: 15px;
+    background-image: url("../images/sprite01.jpg");
+    background-position: 0px 18px;
+    float: left;
+}
+.main .button {
+    background: #269df7;
+    font-size: 18px;
+    color: white;
+    outline: none;
+    height: 46px;
+    width: 100%;
+    letter-spacing: 15px;
+    margin-bottom: 0px;
+}
+#tip {
+    height: 20px;
+    position: absolute;
+    width: 100%;
+    top: 9px;
+    font-size: 12px;
+}
+#tip.right {
+    color: green;
+}
+#tip.wrong {
+    color: red;
+}
+/*页面底部样式*/
+.bottom {
+    padding-top: 24px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: #a2a2a2;
+    line-height: 24px;
+    font-size: 12px;
+}

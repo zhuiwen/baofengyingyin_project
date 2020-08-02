@@ -1,0 +1,25 @@
+[
+  {
+     id:1,
+     "src": "../images/image/th.jpg",
+     "url": "./play.html?id=1",
+     "name":"战狼2",
+     "date":"2017-07-28",
+     "score":"8.4",
+     "infro":"硬汉吴京血战非洲",
+     "pinzhi": "高清",
+     "videourl":"http://ykugc.cp31.ott.cibntv.net/697621108324571C613EF6F0C/03001101005C989264392145B7B6D10F5194EB-76C1-4C87-AC53-08F9DF28F6AB.mp4?ccode=050F&duration=213&expire=18000&psid=5ef9c01dd4f70be38f960a5f53368d3b&ups_client_netip=dc73af1a&ups_ts=1575447223&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XMzkwNzY3MDg2NA%3D%3D&vkey=A8b3aeabae1feb165887f815871518459&sp=&bc=2&dre=u21&si=42"
+   },
+   {
+      id:6,
+      "src": "../images/image/hot.jpg",
+      "url": "./play.html?id=6",
+      "name":"捉鬼记",
+      "date":"2005-04-23",
+      "score":"9.1",
+      "infro":"知性女编遇上恶鬼",
+      "pinzhi": "标清",
+      "videourl":"http://vali.cp31.ott.cibntv.net/69754D62A013B718350FE3121/03000A09025DE5C4B9F146E6AE0B5052694650-66C5-47A2-878F-6D03DEBA863F.mp4?ccode=050F&duration=389&expire=18000&psid=9c08d65a8d1ba4bce4ca5f7a0b3d1d7b&ups_client_netip=dc73af1a&ups_ts=1575506878&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDQyNzg0MjgzNg%3D%3D&vkey=A0ecd7b5e30bd63dc64e0b35d95200c60&s=e438e14b3fa94613a1bb&sp=&bc=2&dre=u20&si=44"
+   }
+
+]

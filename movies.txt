@@ -1,0 +1,198 @@
+[
+    {
+       
+     id:1,
+     "src": "../images/image/th.jpg",
+     "url": "./play.html?id=6",
+     "name":"战狼2",
+     "className": "vipfree",
+     "date":"2017-07-28",
+     "score":"8.4",
+     "infro":"硬汉吴京血战非洲",
+     "pinzhi": "高清",
+     "videourl":"http://ykugc.cp31.ott.cibntv.net/697621108324571C613EF6F0C/03001101005C989264392145B7B6D10F5194EB-76C1-4C87-AC53-08F9DF28F6AB.mp4?ccode=050F&duration=213&expire=18000&psid=5ef9c01dd4f70be38f960a5f53368d3b&ups_client_netip=dc73af1a&ups_ts=1575447223&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XMzkwNzY3MDg2NA%3D%3D&vkey=A8b3aeabae1feb165887f815871518459&sp=&bc=2&dre=u21&si=42"
+  
+    },
+    {
+      id:4,
+      "src": "../images/image/th02.jpg",
+      "url": "./play.html?id=4",
+      "name":"撒坝味道",
+      "className": "vipfree",
+      "date":"2010-04-23",
+      "score":"5.7",
+      "infro":"家的味道爱的味道",
+      "pinzhi": "超清",
+      "videourl":"http://vali.cp31.ott.cibntv.net/6773851A5DB4E72022F393AC7/03000A01005DA309EE07072A5B120B067690A8-18FC-4837-914C-C53518C059B1.mp4?ccode=050F&duration=177&expire=18000&psid=1918faea678065af4afc891525fce455&ups_client_netip=dc73af1a&ups_ts=1575471915&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDM5NjkzMTc4NA%3D%3D&vkey=A2249005693604ab41fa068982c4a220d&s=4973b8dfee394b7aa513&sp=&bc=2&dre=u20&si=44"
+    },
+   {
+      id:2,
+      "src": "../images/image/51_270_360.jpg",
+      "url": "./play.html?id=2",
+      "name":"外乡人",
+      "className": "vipagio",
+      "date":"2015-03-23",
+      "score":"9.1",
+      "infro":"上海外乡人的辛酸与甘甜",
+      "pinzhi": "标清",
+      "videourl":"http://vali.cp31.ott.cibntv.net/69754D62A013B718350FE3121/03000A09025DE5C4B9F146E6AE0B5052694650-66C5-47A2-878F-6D03DEBA863F.mp4?ccode=050F&duration=389&expire=18000&psid=9c08d65a8d1ba4bce4ca5f7a0b3d1d7b&ups_client_netip=dc73af1a&ups_ts=1575506878&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDQyNzg0MjgzNg%3D%3D&vkey=A0ecd7b5e30bd63dc64e0b35d95200c60&s=e438e14b3fa94613a1bb&sp=&bc=2&dre=u20&si=44"
+   },
+   {
+      id:3,
+      "src": "../images/image/th04.jpg",
+      "url": "./play.html?id=3",
+      "name":"学英语要建立的习惯",
+      "className": "vipagio",
+      "date":"2015-07-21",
+      "score":"0.0",
+      "infro":"6个月从0学会英语",
+      "pinzhi": "超清",
+      "videourl":"http://vali.cp31.ott.cibntv.net/6573A746AFA3F719E07186ADD/03000A07025DC27ECDD03A95FCCF183BE2EB84-48EC-47A5-9931-EAA08F82BD0B.mp4?ccode=050F&duration=390&expire=18000&psid=a7b7604e7b629a0e0b2ffa22dadd7699&ups_client_netip=dc73af1a&ups_ts=1575506358&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDQyNjg4Nzg3Mg%3D%3D&vkey=Ad728deb42b7b9978a62152f0b0a53213&s=dcdd79648e654f37aa58&sp=&bc=2&dre=u20&si=44"
+   },
+   {
+      id:4,
+      "src": "../images/image/day4_01.jpg",
+       "url": "./play.html?id=4",
+      "name":"裸山",
+      "className": "vipfree",
+      "date":"2010-04-23",
+      "score":"5.7",
+      "infro":"农村姑娘的纯美爱情",
+      "pinzhi": "超清",
+      "videourl":"http://vali.cp31.ott.cibntv.net/6773851A5DB4E72022F393AC7/03000A01005DA309EE07072A5B120B067690A8-18FC-4837-914C-C53518C059B1.mp4?ccode=050F&duration=177&expire=18000&psid=1918faea678065af4afc891525fce455&ups_client_netip=dc73af1a&ups_ts=1575471915&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDM5NjkzMTc4NA%3D%3D&vkey=A2249005693604ab41fa068982c4a220d&s=4973b8dfee394b7aa513&sp=&bc=2&dre=u20&si=44"
+    },
+    {
+       id:5,
+       "src": "../images/image/th03.jpg",
+       "url": "./play.html?id=5",
+       "name":"女王进行时",
+       "className": "vipfree",
+       "date":"2011-06-13",
+       "score":"2.6",
+       "infro":"职场菜鸟逆袭变女王",
+       "pinzhi": "超清",
+       "videourl":"http://vali.cp31.ott.cibntv.net/677394384494371B8BAC1285F/03000A01005D9C011CDA9346A1FBAA1DDDA3D8-7E32-4744-9351-A2295AEE2168.mp4?ccode=050F&duration=99&expire=18000&psid=0acf5d5e12c2c60284966d4ccc1a001c&ups_client_netip=dc73af1a&ups_ts=1575471786&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDM4OTkwMjk1Ng%3D%3D&vkey=A6418937f8899b375129a052d72bac8e6&s=bfa5b9ba94ad4a36a63e&sp=&bc=2&dre=u20&si=44"
+    },
+    
+  {
+     id:1,
+     "src": "../images/image/51_180_240.jpg",
+     "url": "./play.html?id=1",
+     "name":"奔跑吧！爸爸",
+     "className": "vipfree",
+     "date":"1995-04-23",
+     "score":"9.6",
+     "infro":"慈父与魔鬼教练自由切换",
+     "pinzhi": "高清",
+     "videourl":"http://valipl.cp31.ott.cibntv.net/69749c4864a37716897435fcd/03000801005DDE4DE6EB4E8003E880F5851BB2-D845-41C9-92E4-F49E96AD5C14.mp4?ccode=0502&duration=2760&expire=18000&psid=e626f28ae993f6688c669d937433f142&ups_client_netip=dc73af1a&ups_ts=1575445588&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDE4MjQ4ODg0&vkey=A932b1d6d0a52c8ae31e663db71235432"
+   },
+   {
+      id:2,
+      "src": "../images/image/day3_1.jpg",
+      "url": "./play.html?id=2",
+      "name":"血战钢锯岭",
+      "className": "vipfree",
+      "date":"2011-04-09",
+      "score":"9.7",
+      "infro":"根据真实战争改编",
+      "pinzhi": "标清",
+      "videourl":"http://vali.cp31.ott.cibntv.net/6773CEE278D4471BF66684A24/03000A01005DCB959997671654D3A02C52CD14-4998-4AC1-A081-2BC4422D1FBD.mp4?ccode=050F&duration=75&expire=18000&psid=b11d5431bf65209df6b6ca5c796fd734&ups_client_netip=dc73af1a&ups_ts=1575446423&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDQzNDU2MzQ4NA%3D%3D&vkey=A46834516e664798bb17cfad35c96f506&s=0e6b49de9cd24ea4a847&sp=&bc=2&dre=u20&si=44"
+   },
+   {
+      id:3,
+      "src": "../images/image/day3_2.jpg",
+      "url": "./play.html?id=3",
+      "name":"绝战",
+      "className": "vipagio",
+      "date":"2011-01-09",
+      "score":"4.7",
+      "infro":"80后视角看湘江战役",
+      "pinzhi": "超清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/65720F64639397175F2415989/03000A01005DE6183FD0DAC0230E41E1FE27EE-8023-4C22-83C2-739406ED426E.mp4?ccode=050F&duration=365&expire=18000&psid=af5b796c74da54f07161bbefe84fb43d&ups_client_netip=dc73af1a&ups_ts=1575446508&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDQ1NjczOTYwOA%3D%3D&vkey=Abdb31010b81cdcbcc3371110c929c06d&sp=&bc=2&dre=u21&si=42"
+   },
+   {
+      id:4,
+      "src": "../images/image/day3_3.jpg",
+       "url": "./play.html?id=4",
+      "name":"欢乐喜剧人",
+      "className": "vipagio",
+      "date":"2005-04-20",
+      "score":"4.7",
+      "infro":"郭德纲携喜剧人搞笑",
+      "pinzhi": "超清",
+      "videourl":"http://ykugc.cp31.ott.cibntv.net/6975AC80B38317140868251A9/03000A01005BB9BBE9AF80A58E704F2DE0331C-23C6-4ECA-8DE8-9CB67156D46D.mp4?ccode=050F&duration=91&expire=18000&psid=c6767acdbe533b8655cc790fceddd5f1&ups_client_netip=dc73af1a&ups_ts=1575446599&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XMzg1MjY0NjAyNA%3D%3D&vkey=Aaae084fe5f03483ca75ade794bbbfa90&sp=&bc=2&dre=u21&si=42"
+    },
+    {
+       id:5,
+       "src": "../images/image/day3_4.jpg",
+       "url": "./play.html?id=5",
+       "name":"绣春刀:修罗战场",
+       "className": "vipfree",
+       "date":"2016-04-29",
+       "score":"8.9",
+       "infro":"杨幕张震相爱相杀",
+       "pinzhi": "超清",
+       "videourl":"http://ykugc.cp31.ott.cibntv.net/657392645804C71F4D22D4EEB/03000A01005BB3255CED3ED58E704F3A782021-098E-44E2-BC79-A19864051FBA.mp4?ccode=050F&duration=128&expire=18000&psid=f13cb6e5080b84ba6402174c982904a7&ups_client_netip=dc73af1a&ups_ts=1575446661&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XMzg0NjgxNjUxNg%3D%3D&vkey=Ac775881d060487af5c4e8aaefe1b899e&sp=&bc=2&dre=u21&si=42"
+    },
+    {
+         id:6,
+         "src": "../images/image/day3_5.jpg",
+         "url": "./play.html?id=1",
+         "name":"羞羞的铁拳",
+         "className": "vipfree",
+         "date":"2015-11-23",
+         "score":"7.7",
+         "infro":"艾伦马丽互换灵魂",
+         "pinzhi": "高清",
+         "videourl":"http://valipl.cp31.ott.cibntv.net/69749c4864a37716897435fcd/03000801005DDE4DE6EB4E8003E880F5851BB2-D845-41C9-92E4-F49E96AD5C14.mp4?ccode=0502&duration=2760&expire=18000&psid=e626f28ae993f6688c669d937433f142&ups_client_netip=dc73af1a&ups_ts=1575445588&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDE4MjQ4ODg0&vkey=A932b1d6d0a52c8ae31e663db71235432"
+       },
+       {
+          id:2,
+          "src": "../images/image/day3_6.jpg",
+          "url": "./play.html?id=2",
+          "name":"鲨卷风2",
+          "className": "vipfree",
+          "date":"2015-06-15",
+          "score":"5.7",
+          "infro":"鲨鱼风晏再次袭来",
+          "pinzhi": "标清",
+          "videourl":"http://vali.cp31.ott.cibntv.net/6773CEE278D4471BF66684A24/03000A01005DCB959997671654D3A02C52CD14-4998-4AC1-A081-2BC4422D1FBD.mp4?ccode=050F&duration=75&expire=18000&psid=b11d5431bf65209df6b6ca5c796fd734&ups_client_netip=dc73af1a&ups_ts=1575446423&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDQzNDU2MzQ4NA%3D%3D&vkey=A46834516e664798bb17cfad35c96f506&s=0e6b49de9cd24ea4a847&sp=&bc=2&dre=u20&si=44"
+       },
+       {
+          id:3,
+          "src": "../images/image/day3_7.jpg",
+          "url": "./play.html?id=3",
+          "name":"圣安地列斯地震",
+          "className": "vipagio",
+          "date":"2015-04-23",
+          "score":"6",
+          "infro":"灾难中崩坏的欲望都市",
+          "pinzhi": "超清",
+          "videourl":"http://ykugc.cp31.ott.cibntv.net/65720F64639397175F2415989/03000A01005DE6183FD0DAC0230E41E1FE27EE-8023-4C22-83C2-739406ED426E.mp4?ccode=050F&duration=365&expire=18000&psid=af5b796c74da54f07161bbefe84fb43d&ups_client_netip=dc73af1a&ups_ts=1575446508&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XNDQ1NjczOTYwOA%3D%3D&vkey=Abdb31010b81cdcbcc3371110c929c06d&sp=&bc=2&dre=u21&si=42"
+       },
+       {
+          id:4,
+          "src": "../images/image/day3_8.jpg",
+           "url": "./play.html?id=4",
+          "name":"碰瓷儿遇到贼",
+           "className": "vipagio",
+          "date":"2012-08-21",
+          "score":"7.4",
+          "infro":"碰瓷三傻智斗毒贩",
+          "pinzhi": "超清",
+          "videourl":"http://ykugc.cp31.ott.cibntv.net/6975AC80B38317140868251A9/03000A01005BB9BBE9AF80A58E704F2DE0331C-23C6-4ECA-8DE8-9CB67156D46D.mp4?ccode=050F&duration=91&expire=18000&psid=c6767acdbe533b8655cc790fceddd5f1&ups_client_netip=dc73af1a&ups_ts=1575446599&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XMzg1MjY0NjAyNA%3D%3D&vkey=Aaae084fe5f03483ca75ade794bbbfa90&sp=&bc=2&dre=u21&si=42"
+        },
+        {
+           id:5,
+           "src": "../images/image/day3_9.jpg",
+           "url": "./play.html?id=5",
+           "name":"侠盗联盟",
+            "className": "vipfree",
+           "date":"2011-09-20",
+           "score":"7.9",
+           "infro":"刘德华举枪勇斗让雷诺",
+           "pinzhi": "超清",
+           "videourl":"http://ykugc.cp31.ott.cibntv.net/657392645804C71F4D22D4EEB/03000A01005BB3255CED3ED58E704F3A782021-098E-44E2-BC79-A19864051FBA.mp4?ccode=050F&duration=128&expire=18000&psid=f13cb6e5080b84ba6402174c982904a7&ups_client_netip=dc73af1a&ups_ts=1575446661&ups_userid=&utid=BLFrFhoO8BACAdxzrxp3pGCb&vid=XMzg0NjgxNjUxNg%3D%3D&vkey=Ac775881d060487af5c4e8aaefe1b899e&sp=&bc=2&dre=u21&si=42"
+      }
+
+]
